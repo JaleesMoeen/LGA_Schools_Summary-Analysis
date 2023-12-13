@@ -1,7 +1,7 @@
-# pandas-challenge
+# LGA_Schools_Summary Analysis
  City School Data Analysis
 
-# PyCity Schools Analysis
+# Local Government Area (LGA) Schools Analysis
 
 
 
